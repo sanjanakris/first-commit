@@ -1,0 +1,24 @@
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+    line-height: 30px;
+    margin-bottom :40px;
+}
+img{
+    width: 33%;
+}
+a{
+    font-size: 20px;
+    background-color: beige;
+    padding: 15px 35px 15px 35px;
+    color:chocolate;
+}
+div{
+    text-align: center;
+    margin-bottom :40px;
+}

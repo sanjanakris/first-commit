@@ -1,0 +1,60 @@
+
+th,td{
+    border: 1px solid black;
+    padding: 10px;
+}
+table{
+    border: 1px solid black;
+}
+td{
+   text-align:center ;
+}
+#a1
+{
+    background-color:royalblue;
+    color:white ;
+}
+#a2
+{
+    background-color:aqua;
+    
+}
+#a3
+{
+    background-color:cornflowerblue;
+    
+}
+#cbot
+{
+    background-color:rgb(19, 223, 231);
+    
+}
+#web
+{
+    background-color:rgb(131, 219, 237);
+}
+#java
+{
+    background-color:turquoise;
+}
+#ds
+{
+    background-color:rgb(13, 180, 236);
+}
+#tam
+{
+    background-color:rgb(138, 236, 236);
+}
+#eng
+{
+  
+    background-color:rgb(82, 61, 218);
+}
+#jp
+{
+    background-color:azure;
+}
+#a4
+{
+    background-color:azure;
+}
